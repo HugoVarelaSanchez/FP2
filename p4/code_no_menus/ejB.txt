@@ -1,0 +1,2 @@
+JavaScript,30,25,B,Gal,16.00
+Rust,90,12,A,Cas,200.00
