@@ -1,0 +1,6 @@
+ewWaJJhG user1000 gpu long 11
+LaLu84vk user1001 cpu short 11
+QdJcZU39 user1000 gpu long 9
+KrXwJvLD user1001 cpu short 12
+Q5wNuDUY user1001 cpu short 3
+ppBozuHV user1001 cpu long 10
